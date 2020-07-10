@@ -1,10 +1,10 @@
 // Dependencies
 // =============================================================
 var express = require("express");
-var path = require("path");
-var fs = require("fs");
 var apiRoutes = require("./routes/apiRoutes.js");
 var htmlRoutes = require("./routes/htmlRoutes.js");
+// var path = require("path");
+// var fs = require("fs");
 
 // Sets up the Express App
 // =============================================================
@@ -15,14 +15,9 @@ var PORT = process.env.PORT || 3000;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// Sets up the Express app to handle data parsing
+// Sets up the routes apps
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
-
-// Routes
-// =============================================================
-
-// Basic route that sends the user first to the AJAX Page
 
 // Starts the server to begin listening
 // =============================================================
