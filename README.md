@@ -6,7 +6,7 @@ The goal of this assignment is to create an application that can be used to writ
 
 ## Live Link
 
-- URL link to deployed application on Heroku - [Note Taker Application on Heroku](https://dashboard.heroku.com/apps/note-taker-by-dre/deploy/github)
+- URL link to deployed application on Heroku - [Note Taker Application on Heroku](https://note-taker-by-dre.herokuapp.com/)
 - If testing locally on your machine/computer see the [Local Setup](#Local-Setup) section.
 
 ## User Story
