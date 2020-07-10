@@ -34,4 +34,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Demo Recording
 
-![Note Take Demo](./media/Note_Taker_Demo.gif)
+![Note Take Demo](./media/NoteTakeApp.gif)
