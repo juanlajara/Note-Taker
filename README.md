@@ -7,7 +7,7 @@ The goal of this assignment is to create an application that can be used to writ
 ## Live Link
 
 - URL link to deployed application on Heroku - [Note Taker Application on Heroku](https://dashboard.heroku.com/apps/note-taker-by-dre/deploy/github)
-- If testing locally on your machine/computer see the [Local Install & Testing](Local-Install-&-Testing) section.
+- If testing locally on your machine/computer see the [Local Install & Testing](#Local-Setup) section.
 
 ## User Story
 
@@ -27,7 +27,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 - Application should allow users to delete previously saved notes.
 
-## Local Install & Testing
+## Local Setup
 
 - Make sure `Node.js` is installed in your machine. If `Node.js` is not installed on your machine, [click here](https://nodejs.org/en/) to download the application.
 - The `package.json` file included in this Note Taker repo already lists all Node modules, NPM packages, and other dependencies that are required to successfully run this application. Please make sure to run the `npm install` in the root directory to install all required modules/packages.
