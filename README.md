@@ -30,7 +30,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Local Setup
 
 - Make sure `Node.js` is installed in your machine. If `Node.js` is not installed on your machine, [click here](https://nodejs.org/en/) to download the application.
-- The `package.json` file included in this Note Taker repo already lists all Node modules, NPM packages, and other dependencies that are required to successfully run this application. Please make sure to run the `npm install` in the root directory to install all required modules/packages.
+- The `package.json` file included in this Note Taker repo already lists all Node modules, NPM packages, and other dependencies that are required to successfully run this application. Please make sure to run the `npm install` command within the _terminal, while in_ the root directory to install all required modules/packages. Then run `node server.js` to start the server, and simply navigate to this url `http://localhost:3000/` within you browser's url tab.
 
 ## Demo Recording
 
